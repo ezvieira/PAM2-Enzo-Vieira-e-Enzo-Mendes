@@ -10,8 +10,8 @@ export default function App() {
 
       <ScrollView style={styles.cont_texto}>
         <Text>
-          O ambicioso Relâmpago McQueen sonha em vencer a Copa Pistão e conseguir um patrocínio milionário. Devido à sua pressa e arrogância, ele se perde e vai parar em Radiator Springs, uma pacata cidade na Rota 66. Lá, ele faz amizades leais, como o caminhão Mate e a advogada Sally, e aprende com o veterano Doc Hudson que ganhar não é tudo
-          
+          A curiosidade é uma das características mais marcantes da natureza humana...
+          (resto do texto aqui)
         </Text>
       </ScrollView>
 
